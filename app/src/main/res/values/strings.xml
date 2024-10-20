@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">wear</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="textic">Lorem ipsum dolor sit amot, consectotur adipiscing with. Donec luctus metus at eleitend porttilor. Sed et urna ut nulla condimentum laoreel. Duis et velit ut leo vanus blandit. Curabilur accumsan nisi eu leo Bistique sollicitudin, Praesent vulputate odio ut porta sollicitudin. Ut accumsan elit arci, in congue turpis posuere</string>
+    <string name="text_steps">10.000 steps</string>
+</resources>
